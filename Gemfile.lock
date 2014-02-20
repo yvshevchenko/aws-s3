@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    aws-s3 (0.6.3)
+      builder
+      mime-types
+      xml-simple
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    builder (3.2.2)
+    mime-types (2.0)
+    xml-simple (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aws-s3!
